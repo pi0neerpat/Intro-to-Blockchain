@@ -2,7 +2,25 @@
 
 `Companion resources for Patrick Gallagher's blockchain courses and workshops. #BUIDL`
 
-## Lesson 1 - Hands-on Blockchain
+NOTE: Resources can be used for your course with permission. Just ask!
+
+## Coding Challenges
+
+See the [Solidity Challenges](/Solidity_Challenges) folder
+
+1.  Make your own personal token
+2.  Splitter tool: Quickly split Ethereum among multiple addresses.
+
+## Group Activities
+
+See the [Activities](/Activities) folder
+
+1.  Public key encryption with paint.
+2.  Tokenize all the things!
+
+## Resources
+
+### Lesson 1 - Hands-on Blockchain
 
 #### What is Blockchain
 
@@ -49,6 +67,11 @@
 - How transactions are processed: [My Ether Wallet](https://myetherwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html)
 - Live view of the Ethereum blockchain: [Eth Viewer](http://ethviewer.live/)
 
+#### Solidity
+
+- Solidity [cheat sheet](https://github.com/manojpramesh/solidity-cheatsheet)
+- Stuck? See my [Solidity Troubleshooting guide](https://github.com/blockchainbuddha/Solidity-Troubleshooting-Guide)
+
 #### Wallets
 
 - Advanced wallet w/ crypto-collectibles [Vault.io](https://vault.io/) (warning: untested)
@@ -70,7 +93,7 @@
 
 https://blockstack.org/berlin2018
 
-#### Online courses
+#### Online Training
 
 The [best paid DApp course ](https://www.udemy.com/share/1000CIBUYZdl5bQng=/) by Stephen Grider ($10 Udemy)
 
