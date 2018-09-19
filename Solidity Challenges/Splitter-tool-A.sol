@@ -26,11 +26,12 @@ contract Splitter {
    // Function should take an array of addresses and return true if successful
    function setRecipients(address[] a) onlyOwner returns (bool){
        // Add the address array to storage
-       recipientAddress = a;
+
 
        // Add the number of recipient to storage
-       numberRecipients = recipientAddress.length;
-       return true;
+
+       //Make a return statement
+  
    }
 
    // Challenge Part B

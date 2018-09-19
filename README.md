@@ -6,14 +6,14 @@ NOTE: Resources can be used for your course with permission. Just ask!
 
 ## Coding Challenges
 
-See the [Solidity Challenges](/Solidity_Challenges) folder
+See the [Solidity Challenges](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Solidity%20Challenges) folder
 
 1.  Make your own personal token
 2.  Splitter tool: Quickly split Ethereum among multiple addresses.
 
 ## Group Activities
 
-See the [Activities](/Activities) folder
+See the [Activities](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Activities) folder
 
 1.  Public key encryption with paint.
 2.  Tokenize all the things!
