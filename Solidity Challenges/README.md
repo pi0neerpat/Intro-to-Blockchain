@@ -26,7 +26,9 @@ Deploy and use Exampletoken.sol from [this repo](https://github.com/jschiarizzi/
 * Deploy the contract
 * Under deployed contracts, open your contract to view the functions and variables.
 * Copy the addresses from a few other accounts listed
+
 ![alt-text](https://github.com/blockchainbuddha/Intro-to-Blockchain/blob/master/Solidity%20Challenges/assets/example.png)
+
 * Paste addresses into `setRecipients()` and submit. Be sure you use quotes on each individual address, and separate each address with a comma.
 * Run `distributeFunds()`. Don't forget to set a value!
 
