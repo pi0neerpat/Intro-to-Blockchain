@@ -8,8 +8,7 @@
 
 - Visualize [blockchain mining](https://youtu.be/_160oMzblY8)
 - U.S.Dept. Treasury [takeaways](https://www.publicdebt.treas.gov/fsservices/gov/fit/blockchain.htm)
-- Results from the ONC blockchain in healthcare [challenge](http://www.cccinnovationcenter.com/challenges/block-chain-
-  challenge/view-winners/)
+- Results from the ONC blockchain in healthcare [challenge](http://www.cccinnovationcenter.com/challenges/block-chain-challenge/view-winners/)
 
 #### Ethereum-specific resources
 
@@ -24,8 +23,7 @@
 
 #### Use-cases and DApps
 
-- Moving to [Web 3.0](https://themerkle.com/web-3-0-will-be-cheaper-to-run-and-more-secure-than-its-
-  predecessor-heres-why/)
+- Moving to [Web 3.0](https://themerkle.com/web-3-0-will-be-cheaper-to-run-and-more-secure-than-its-predecessor-heres-why/)
 - [Curated list](https://dappradar.com) of decentralize applications
 
 #### Smart Contracts
