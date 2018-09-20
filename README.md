@@ -72,6 +72,12 @@ See the [Activities](https://github.com/blockchainbuddha/Intro-to-Blockchain/tre
 - Solidity [cheat sheet](https://github.com/manojpramesh/solidity-cheatsheet)
 - Stuck? See my [Solidity Troubleshooting guide](https://github.com/blockchainbuddha/Solidity-Troubleshooting-Guide)
 
+#### Development Environments and SDK
+
+* ConsenSys [Truffle suite](https://www.truffleframework.com/). Development environment, testing framework and asset pipeline for blockchains using Ethereum
+* JP Morgan Chase [Cakeshop](https://github.com/jpmorganchase/cakeshop). Development environment and SDK for Ethereum-like ledgers.
+*
+
 #### Wallets
 
 - Advanced wallet w/ crypto-collectibles [Vault.io](https://vault.io/) (warning: untested)
