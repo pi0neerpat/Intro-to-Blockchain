@@ -1,16 +1,16 @@
-## Challenges
+### Challenge Contents
 
 1.  Make your own [personal token](https://github.com/jschiarizzi/solidity-simple-examples) (Exampletoken.sol)
 2.  Splitter tool: Quickly split Ethereum among multiple addresses.
-3.  More coming soon...
+3.  Using events (in progress)
 
-#### 1. Make your own personal Token
+### Challenge 1: Create a Token
 
 Deploy and use Exampletoken.sol from [this repo](https://github.com/jschiarizzi/solidity-simple-examples)
 
-#### 2. Splitter Tool
+### Challenge 2. Splitter Tool
 
-**Writing**
+** Create | Write | Compile **
 
 1.  Copy the code from either `Splitter-tool-A.sol` (easy) or `Splitter-tool-B.sol` (harder)
 2. Navigate to our browser IDE [Remix](http://remix.ethereum.org)
@@ -21,7 +21,7 @@ Deploy and use Exampletoken.sol from [this repo](https://github.com/jschiarizzi/
 
 > Need help? Check out the Solidity [cheat sheet](https://github.com/manojpramesh/solidity-cheatsheet) or the docs for [Solidity](https://solidity.readthedocs.io/en/latest/) and [Remix](https://remix.readthedocs.io/en/latest/)
 
-**Testing**
+**Deploy | Run**
 1.  Switch to the 'Run' tab, and set the Environment to `Javascrtipt VM`
 2. Deploy the contract
 3. Under deployed contracts, open your contract to view the functions and variables.

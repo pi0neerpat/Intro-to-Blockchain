@@ -8,15 +8,20 @@ NOTE: Resources can be used for your course with permission. Just ask!
 
 See the [Solidity Challenges](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Solidity%20Challenges) folder
 
-1.  Make your own personal token
-2.  Splitter tool: Quickly split Ethereum among multiple addresses.
+*  Make your own personal token
+*  Splitter tool: Quickly split Ethereum among multiple addresses.
 
 ## Group Activities
 
 See the [Activities](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Activities) folder
 
-1.  Public key encryption with paint.
-2.  Tokenize all the things!
+*  Public key encryption with paint.
+*  Tokenize all the things!
+*  Use a DApp to play Trivia
+
+## Tutorials
+
+See the [Tutorials](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Tutorials) folder
 
 ## Resources
 
@@ -72,11 +77,11 @@ See the [Activities](https://github.com/blockchainbuddha/Intro-to-Blockchain/tre
 - Solidity [cheat sheet](https://github.com/manojpramesh/solidity-cheatsheet)
 - Stuck? See my [Solidity Troubleshooting guide](https://github.com/blockchainbuddha/Solidity-Troubleshooting-Guide)
 
-#### Development Environments and SDK
+#### Development Environments, SDKs, tools
 
 * ConsenSys [Truffle suite](https://www.truffleframework.com/). Development environment, testing framework and asset pipeline for blockchains using Ethereum
 * JP Morgan Chase [Cakeshop](https://github.com/jpmorganchase/cakeshop). Development environment and SDK for Ethereum-like ledgers.
-*
+* [Big list](https://github.com/ConsenSys/ethereum-developer-tools-list) of tools
 
 #### Wallets
 
@@ -102,6 +107,11 @@ https://blockstack.org/berlin2018
 #### Online Training
 
 The [best paid DApp course ](https://www.udemy.com/share/1000CIBUYZdl5bQng=/) by Stephen Grider ($10 Udemy)
+
+#### Coding Challenges
+
+* Smart contract [hacking challenge](https://github.com/OpenZeppelin/ethernaut)(untested)
+* Chainshot [weekly challenges](https://www.chainshot.com/)
 
 #### Books
 
