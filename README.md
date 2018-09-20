@@ -4,24 +4,22 @@
 
 NOTE: Resources can be used for your course with permission. Just ask!
 
-## Coding Challenges
-
-See the [Solidity Challenges](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Solidity%20Challenges) folder
+## [Coding Challenges](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Solidity%20Challenges)
 
 *  Make your own personal token
 *  Splitter tool: Quickly split Ethereum among multiple addresses.
 
-## Group Activities
-
-See the [Activities](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Activities) folder
+## [Group Activities](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Activities)
 
 *  Public key encryption with paint.
 *  Tokenize all the things!
 *  Use a DApp to play Trivia
 
-## Tutorials
+## [Tutorials](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Tutorials)
 
-See the [Tutorials](https://github.com/blockchainbuddha/Intro-to-Blockchain/tree/master/Tutorials) folder
+* Introduction to wallets
+* Setting up MetaMask
+
 
 ## Resources
 
