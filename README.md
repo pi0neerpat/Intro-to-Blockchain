@@ -46,6 +46,7 @@ NOTE: Resources can be used for your course with permission. Just ask!
 
 - Moving to [Web 3.0](https://themerkle.com/web-3-0-will-be-cheaper-to-run-and-more-secure-than-its-predecessor-heres-why/)
 - [Curated list](https://dappradar.com) of decentralize applications
+* Mapping the [entire world](https://map.foam.space)
 
 #### Smart Contracts
 
@@ -62,7 +63,7 @@ NOTE: Resources can be used for your course with permission. Just ask!
 
 - Truffle suite [Petshop Tutorial](https://truffleframework.com/tutorials/pet-shop)
 - [Crypto Zombies](https://cryptozombies.io/)
-- [BlockGeeks](https://blockgeeks.com/)
+- BlockGeeks [How to become a ETH dev](https://blockgeeks.com/guides/ethereum-developer/)
 - The [best paid DApp course ](https://www.udemy.com/share/1000CIBUYZdl5bQng=/) by Stephen Grider ($10 Udemy)
 
 ## Lesson 2 - Smart Contracts
@@ -84,6 +85,14 @@ NOTE: Resources can be used for your course with permission. Just ask!
 #### Wallets
 
 - Advanced wallet w/ crypto-collectibles [Vault.io](https://vault.io/) (warning: untested)
+* How wallets are generated using [binary-to-text encoding](https://en.wikipedia.org/wiki/Base58) and more on [Hierarchical Deterministic (HD) wallets](https://medium.com/bitcraft/hd-wallets-explained-from-high-level-to-nuts-and-bolts-9a41545f5b0)
+
+> Q: What does `m/44'/60'/0'/0` mean when using my hardware wallet?
+* 44 — [BIP 44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+* 60 — Ethereum’s coin type
+* 0 — Account 0
+* 0 — Chain 0 (mainnet)
+
 
 #### Vocabulary
 
