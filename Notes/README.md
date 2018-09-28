@@ -9,9 +9,18 @@
 
 - [Inside an Ethereum Transaction](https://medium.com/@codetractio/inside-an-ethereum-transaction-fa94ffca912f)
 
-* ??
+[Identity](https://medium.com/uport/privacy-preserving-identity-system-for-ethereum-dapps-a3352d1a93e8) on the blockchain
 
-** Next lesson (3)**
+- ??
+
+#### Alternative IDE tools
+
+- [Drag-n-drop](http://etherscripter.com/0-5-1/) solidity (caution advised)
+
+* [Pipeline](http://pipeos.one/) visual scripter. [video](https://www.youtube.com/watch?v=-LHvdZZUrss) explainer
+* Hyperledger [Composer](https://www.hyperledger.org/projects/composer) (Ethereum's brother)
+
+  ** Next lesson (3)**
 
 Topic: Oracles and Events
 
