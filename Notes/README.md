@@ -20,7 +20,11 @@
 * [Pipeline](http://pipeos.one/) visual scripter. [video](https://www.youtube.com/watch?v=-LHvdZZUrss) explainer
 * Hyperledger [Composer](https://www.hyperledger.org/projects/composer) (Ethereum's brother)
 
-  ** Next lesson (3)**
+** JObs **
+
+Sign up for this and tell me how it goes! https://blockchain-devs.xpo.network/
+
+** Next lesson (3)**
 
 Topic: Oracles and Events
 
@@ -28,7 +32,9 @@ Topic: Oracles and Events
 
 Topics: NFTs ERC-721
 
-**Very stupid dapps**
+DAY2 Stuff- deployment tecniques
+manually in CLI, then truffle, then helper scripts?
+https://blog.hellobloom.io/how-to-make-a-user-friendly-ethereum-dapp-5a7e5ea6df22
 
 ** Lesson 5 **
 
