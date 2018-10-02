@@ -29,6 +29,7 @@ NOTE: Resources can be used for your course with permission. Just ask!
 - Have some fun by [visualizing](https://youtu.be/_160oMzblY8) blockchain mining or [listening](https://vimeo.com/272871263) to each block (cheesy)
 - U.S.Dept. Treasury [takeaways](https://www.publicdebt.treas.gov/fsservices/gov/fit/blockchain.htm)
 - Results from the ONC blockchain in healthcare [challenge](http://www.cccinnovationcenter.com/challenges/block-chain-challenge/view-winners/)
+- Be a [blockchain detecive](https://ethtective.com/)
 
 #### Ethereum-specific resources
 
@@ -108,6 +109,7 @@ NOTE: Resources can be used for your course with permission. Just ask!
 - Example: [Bounty hunting](https://bounty0x.io/)
   [For the developers: ](https://dappsforbeginners.wordpress.com/tutorials/introduction-to-development-on-ethereum/)
 - Participate in a [DAO](https://medium.com/daostack/new-introducing-alchemy-budgeting-for-decentralized-organizations-b81ba8501b23)
+- [NEO DApps](http://ndapp.org/) (China's Ethereum)
 
 #### DApps that make you think "this is a thing?"
 
@@ -177,3 +179,4 @@ The [best paid DApp course ](https://www.udemy.com/share/1000CIBUYZdl5bQng=/) by
 #### Advanced Topics
 
 - Computing contract addresses [before deployment](https://medium.com/bitclave/how-we-sent-eth-to-the-wrong-address-and-successfully-recovered-them-2fc18e09d8f6)
+- [Reverse-lookup](https://www.4byte.directory/) of function signatures
