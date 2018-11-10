@@ -159,7 +159,7 @@ The [best paid DApp course ](https://www.udemy.com/share/1000CIBUYZdl5bQng=/) by
 
 > WARNING! Don't be a dummy like me and make sure you are using the correct version of web3. Check your package.json file and delete the caret "^" on web3 to prevent automatically updating to a newer version and breaking your DApp.
 
-- Truffle can have its own web3 syntax. Use [these docs](https://truffleframework.com/docs/truffle/overview)
+- Truffle can have its own web3 syntax. Use [these docs](https://truffleframework.com/docs/truffle/overview). Upon Truffle version 5 release, it will use web3 1.0.0.
 - For `"web3": "0.2x.x"` use [these docs](https://github.com/ethereum/wiki/wiki/JavaScript-API) and assign variable directly
 - For `"web3": "1.0.0-beta.26"` use [these docs](https://web3js.readthedocs.io/en/1.0/web3.html) and use `.then()` callback promises
 
