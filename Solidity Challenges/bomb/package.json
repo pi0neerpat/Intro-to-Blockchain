@@ -1,0 +1,14 @@
+{
+  "name": "bomb",
+  "version": "1.0.0",
+  "description": "## How To Play",
+  "main": "playground.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereum.js": "^0.2.4"
+  }
+}
