@@ -148,7 +148,7 @@ contract bomb{
 
     function puzzle08(uint8 n) onlyPlayers public {
         require(hasCompletedPuzzle(8) == false);
-        bytes32 secretNumberHash = 0x789bcdf275fa270780a52ae3b79bb1ce0fda7e0aaad87b57b74bb99ac290714a;
+        bytes32 secretNumberHash = 0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347;
         require(keccak256(n) == secretNumberHash);
         setPuzzleAsCompleted(msg.sender, 8);
     }
